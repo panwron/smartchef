@@ -1,0 +1,2 @@
+# smartchef
+smartchef app mvp
